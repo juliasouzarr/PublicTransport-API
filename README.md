@@ -44,6 +44,3 @@ It simulates a public transport system, allowing the management of bus data thro
 - Structured endpoints with **typed results (Results<>)**  
 - Basic input validation in POST endpoint  
 - Clean and simple architecture  
-
-```bash
-dotnet run
